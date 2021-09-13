@@ -1,0 +1,11 @@
+{
+  "name": "nodeexample",
+  "version": "0.1.0",
+  "description": "Mi primer proyecto (segundo)\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D de node (segundo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Este serBuri",
+  "license": "ISC"
+}

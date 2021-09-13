@@ -1,0 +1,11 @@
+{
+  "name": "matrix_operations_rock_chau",
+  "version": "0.1.2",
+  "description": "My first npm package, a matrix calculator or something like that",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Buriticá",
+  "license": "ISC"
+}

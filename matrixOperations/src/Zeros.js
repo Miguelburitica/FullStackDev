@@ -1,21 +1,13 @@
-const ZerosMatriz = function(n){
-    let matrizA = []
-    let matrizB = []
+const Zeros = function(n, m=n){
+    let matrixA = []
+    let matrixB = []
     for (let i = 0; i < n; i++) {
-        matrizA.push(0)
+        matrixA.push(0)
     }
-    for (let j = 0; j < n; j++) {
-        matrizB.push(matrizA)
+    for (let j = 0; j < m; j++) {
+        matrixB.push(matrixA)
     }
-    return matrizB
+    return matrixB
 }
 
-const ZerosArray = function (n){
-    let array = []
-    for (let i = 0; i < n; i++) {
-        array.push(0)        
-    }
-    return array
-}
-
-module.exports = {ZerosMatriz, ZerosArray}
+module.exports = Zeros

@@ -1,8 +1,8 @@
 {
   "name": "matrix_operations_rock_chau",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "My first npm package, a matrix calculator or something like that",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
